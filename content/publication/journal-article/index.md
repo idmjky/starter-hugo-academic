@@ -51,6 +51,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: screen-shot-2022-11-14-at-11.46.49-pm.png
 date: 2022-11-15T04:39:29.237Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
