@@ -38,8 +38,6 @@ highlight_name: true
 first_name: Alice
 email: kaiyi at mit dot edu
 ---
-H﻿i,
-
 I am Kaiyi Jiang, a Ph.D. student in Biological Engineering at Massachusetts Institute of Technology (MIT) advised by Dr. Jonathan Gootenberg and Dr. Omar Abudayyeh. I obtained my B.S. (Summa Cum Laude) in Biologicial Engineering from Rice University in 2021.
 
 At Rice, I was fortunate to have worked with Prof. Caleb Bashor on post-translational synthetic circuits for mammalian cell reprogramming. 
