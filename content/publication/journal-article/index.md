@@ -17,7 +17,7 @@ abstract: Programmable approaches to sense and respond to the presence of
   in multiple contexts, including tracking transcriptional states,
   RNA-sensing-induced cell death, cell-type identification, and control of
   synthetic mRNA translation.
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
@@ -57,13 +57,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
