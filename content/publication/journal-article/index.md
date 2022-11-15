@@ -44,7 +44,7 @@ url_source: ""
 url_video: ""
 title: Programmable eukaryotic protein synthesis with RNA sensors by harnessing ADAR
 doi: https://doi.org/10.1038/s41587-022-01534-5
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
@@ -57,5 +57,5 @@ date: 2022-11-15T04:39:29.237Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code:
 ---
