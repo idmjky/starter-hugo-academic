@@ -1,7 +1,7 @@
 ---
 title: Kaiyi Jiang
 role: PhD in Biological Engineering
-avatar_filename: wechatimg3.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include synthetic biology, genome engineering and
   gene and cell therapy.
 interests:
