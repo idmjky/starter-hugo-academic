@@ -22,12 +22,20 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - KaiyiJiang
+  - Kaiyi Jiang
+  - Jeremy Koob
+  - Xi Dawn Chen
+  - Rohan N. Krajeski
+  - Yifan Zhang
+  - Verena Volf
+  - Wenyuan Zhou
+  - Samantha R. Sgrizzi
+  - Lukas Villiger
+  - Jonathan S. Gootenberg
+  - Fei Chen and Omar O. Abudayyeh
 author_notes: []
 publication: "Nature Biotechnology "
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -43,9 +51,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2022-11-15T04:39:29.237Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
