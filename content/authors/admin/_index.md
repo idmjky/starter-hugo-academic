@@ -29,6 +29,9 @@ education:
     - course: BS in Bioengineering
       institution: Rice University
       year: 2021
+    - course: PhD in Biological Engineering
+      institution: MIT
+      year: 2026
 superuser: true
 last_name: Bighetti
 highlight_name: true
