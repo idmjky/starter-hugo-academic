@@ -9,9 +9,6 @@ interests:
   - Genome Engineering
   - Cell and Gene Therapy
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/idmjky
@@ -42,3 +39,5 @@ I﻿ am Kaiyi Jiang, a PhD student in Biological Engineering at Massachusetts In
 At Rice, I was fortunate to have worked with Prof. Caleb Bashor on post-translational synthetic circuit for mammalian cell reprogramming. 
 
 I am broadly interested in all reprogrammable systems for genome engineering, synthetic biology, and gene and cell therapy
+
+Email: kaiyi at mit dot edu
