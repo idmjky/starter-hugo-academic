@@ -18,7 +18,7 @@ abstract: Programmable approaches to sense and respond to the presence of
   RNA-sensing-induced cell death, cell-type identification, and control of
   synthetic mRNA translation.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.nature.com/articles/s41587-022-01534-5
 publication_types:
   - "2"
 authors:
@@ -32,7 +32,8 @@ authors:
   - Samantha R. Sgrizzi
   - Lukas Villiger
   - Jonathan S. Gootenberg
-  - Fei Chen and Omar O. Abudayyeh
+  - Fei Chen
+  - Omar O. Abudayyeh
 author_notes: []
 publication: "Nature Biotechnology "
 summary: ""
